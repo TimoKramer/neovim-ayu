@@ -119,7 +119,7 @@ function colors.generate()
     colors.selection_inactive = '#E7E8E9'
     colors.selection_border = '#E1E1E2'
     colors.guide_active = '#D3D5D8'
-    colors.guide_normal = '#E6E7E9'
+    colors.guide_normal = '#B1B1B3'
 
     colors.vcs_added = '#99BF4D'
     colors.vcs_modified = '#709ECC'
